@@ -1,0 +1,35 @@
+{
+  "OOT": {
+    "title": "The Legend Of Zelda : Ocarina Of Time",
+    "img": "/GameImage/TlozOcarinaOfTimeImage.png",
+    "ID": "OOT",
+    "link": {
+      "Main leaderboard": "https://www.speedrun.com/oot",
+      "Catégorie extension leaderboard": "https://www.speedrun.com/ootextras",
+      "Livesplit": "https://github.com/LiveSplit/LiveSplit/releases/download/1.8.33/LiveSplit_1.8.33.zip",
+      "Discord": "https://discord.gg/C7MW64Dkd8",
+      "Bingo": "https://ootbingo.github.io/bingo/bingo.html?version=10.5.1&seed=127716&mode=normal",
+      "Practice ROM": "https://practicerom.com/",
+      "StratDB": "https://www.stratdb.app/home",
+      "Splits": "https://pastebin.com/vRkhnvMr",
+      "Project64 1.7": "https://www.mediafire.com/file/lnhe85e6vs7pv25/Project64+1.7.0.50.Ver.23.zip",
+      "Dolphin": "https://www.mediafire.com/file/lnhe85e6vs7pv25/Project64+1.7.0.50.Ver.23.zip",
+      "Route Doc": "https://pastebin.com/eVDpJi6Z"
+    }
+  },
+  "WWHD": {
+    "title": "The Legend Of Zelda : Wind Waker HD",
+    "img": "/GameImage/WWHDImg.png",
+    "ID": "WWHD",
+    "link": {
+      "Main leaderboard": "https://www.speedrun.com/twwhd",
+      "Catégorie extension leaderboard": "https://www.speedrun.com/twwhdext",
+      "Livesplit": "https://github.com/LiveSplit/LiveSplit/releases/download/1.8.33/LiveSplit_1.8.33.zip",
+      "Discord": "https://discord.com/invite/0idPcnNbLePx1fW8",
+      "Trainer": "https://github.com/Teotia444/WWHD-Hacker",
+      "Wii U Hack Guide": "https://wiiu.hacks.guide/#/",
+      "Dolphin Zelda Edition": "https://www.mediafire.com/file/wid4qoqmc212crv/Dolphin_ZeldaEdition7.0.zip",
+      "Route Doc": "https://pastebin.com/rdgZBPjV"
+    }
+  }
+}
