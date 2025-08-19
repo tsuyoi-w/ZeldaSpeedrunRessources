@@ -1,6 +1,5 @@
 <template>
   <header>
-    <p><strong>Current route path:</strong> {{ $route.fullPath }}</p>
     <RouterLink to="/">ZELDA SPEEDRUN RESSOURCES</RouterLink>
   </header>
   <main>
