@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ZeldaRessourceSpeedrun
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -27,3 +28,6 @@ npm run dev
 ```sh
 npm run build
 ```
+=======
+# ZeldaSpeedrunRessources
+>>>>>>> 9652cf139f3fbc212967d571e1be6bbc1c0fd3d5
