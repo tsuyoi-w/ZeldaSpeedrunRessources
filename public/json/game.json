@@ -1,0 +1,20 @@
+{
+  "OOT": {
+    "title": "The Legend Of Zelda : Ocarina Of Time",
+    "img": "/public/GameImage/TlozOcarinaOfTimeImage.png",
+    "ID": "OOT",
+    "link": {
+      "Livesplit": "https://github.com/LiveSplit/LiveSplit/releases/download/1.8.33/LiveSplit_1.8.33.zip",
+      "Discord": "https://discord.gg/C7MW64Dkd8"
+    }
+  },
+  "WWHD": {
+    "title": "The Legend Of Zelda : Wind Waker HD",
+    "img": "/public/GameImage/WWHDImg.png",
+    "ID": "WWHD",
+    "link": {
+      "Livesplit": "https://github.com/LiveSplit/LiveSplit/releases/download/1.8.33/LiveSplit_1.8.33.zip",
+      "Discord": "https://discord.com/invite/0idPcnNbLePx1fW8"
+    }
+  }
+}
