@@ -1,7 +1,7 @@
 {
   "OOT": {
     "title": "The Legend Of Zelda : Ocarina Of Time",
-    "img": "/GameImage/TlozOcarinaOfTimeImage.png",
+    "img": "GameImage/TlozOcarinaOfTimeImage.png",
     "ID": "OOT",
     "link": {
       "Main leaderboard": "https://www.speedrun.com/oot",
@@ -19,7 +19,7 @@
   },
   "WWHD": {
     "title": "The Legend Of Zelda : Wind Waker HD",
-    "img": "/GameImage/WWHDImg.png",
+    "img": "GameImage/WWHDImg.png",
     "ID": "WWHD",
     "link": {
       "Main leaderboard": "https://www.speedrun.com/twwhd",
