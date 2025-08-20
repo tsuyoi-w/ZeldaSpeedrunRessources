@@ -41,14 +41,4 @@ onMounted(async () => {
 .PanelContainer:hover {
   cursor: pointer;
 }
-
-ul {
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-}
-
-ul li {
-  width: 90vw;
-}
 </style>

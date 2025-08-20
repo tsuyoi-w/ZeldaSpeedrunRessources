@@ -14,6 +14,11 @@ defineProps({
 </script>
 
 <style>
+@font-face {
+  font-family: 'HyliaSerifBeta';
+  src: url('font/HyliaSerifBeta-Regular.otf') format('opentype');
+}
+
 .GamePanel {
   padding: 15px;
   width: 400px;
@@ -23,8 +28,10 @@ defineProps({
 }
 
 .GamePanel h1 {
+  text-align: center;
   display: flex;
   align-items: center;
+  font-family: 'HyliaSerifBeta', serif;
   justify-content: center;
 }
 
