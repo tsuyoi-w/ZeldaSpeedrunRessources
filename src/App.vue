@@ -46,4 +46,14 @@ li a {
   top: 5px;
   left: 5px;
 }
+
+ul {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+ul li {
+  width: 90vw;
+}
 </style>
