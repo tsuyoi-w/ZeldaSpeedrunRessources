@@ -1,5 +1,6 @@
 <template>
   <ul v-if="games && games.WWHD">
+    <h2>{{ games.WWHD.title }}</h2>
     <li v-for="(value, key) in games.WWHD.link">
       <a :href="value">{{ key }}</a>
     </li>
