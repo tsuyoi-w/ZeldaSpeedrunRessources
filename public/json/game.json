@@ -3,6 +3,7 @@
     "title": "The Legend Of Zelda : Ocarina Of Time",
     "img": "GameImage/TlozOcarinaOfTimeImage.png",
     "ID": "OOT",
+    "Hide": false,
     "link": {
       "Main leaderboard": "https://www.speedrun.com/oot",
       "Catégorie extension leaderboard": "https://www.speedrun.com/ootextras",
@@ -21,6 +22,7 @@
     "title": "The Legend Of Zelda : Wind Waker HD",
     "img": "GameImage/WWHDImg.png",
     "ID": "WWHD",
+    "Hide": false,
     "link": {
       "Main leaderboard": "https://www.speedrun.com/twwhd",
       "Catégorie extension leaderboard": "https://www.speedrun.com/twwhdext",
@@ -30,6 +32,18 @@
       "Wii U Hack Guide": "https://wiiu.hacks.guide/#/",
       "Dolphin Zelda Edition": "https://www.mediafire.com/file/wid4qoqmc212crv/Dolphin_ZeldaEdition7.0.zip",
       "Route Doc": "https://pastebin.com/rdgZBPjV"
+    }
+  },
+  "BOTW": {
+    "title": "The Legend Of Zelda : Breath Of The Wild",
+    "img": "GameImage/BOTWImage.png",
+    "ID": "BOTW",
+    "Hide": true,
+    "link": {
+      "Main leaderboard": "https://www.speedrun.com/botw",
+      "Catégorie extension leaderboard": "https://www.speedrun.com/botw-extension",
+      "Livesplit": "https://github.com/LiveSplit/LiveSplit/releases/download/1.8.33/LiveSplit_1.8.33.zip",
+      "split icon": "https://www.speedrun.com/static/resource/2blt3.rar?v=5e9b8fe"
     }
   }
 }

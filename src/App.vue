@@ -10,10 +10,16 @@
 <script setup></script>
 
 <style>
+@font-face {
+  font-family: 'HyliaSerifBeta';
+  src: url('/font/HyliaSerifBeta-Regular.otf') format('opentype');
+}
+
 * {
   margin: 0px;
   list-style: none;
   padding: 0px;
+  font-family: 'HyliaSerifBeta', serif;
   text-decoration: none;
   color: white;
 }

@@ -5,6 +5,7 @@
       :title="game.title"
       :img="game.img"
       @click="openGameRess(game.ID)"
+      :Hide="game.Hide"
     ></GamePanel>
   </div>
   <div v-else>Aucun Jeux</div>
@@ -35,6 +36,7 @@ onMounted(async () => {
 <style>
 .PanelContainer {
   display: flex;
+  flex-wrap: wrap;
   flex-direction: row;
 }
 

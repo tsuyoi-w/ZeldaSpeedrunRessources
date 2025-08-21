@@ -1,5 +1,5 @@
 <template>
-  <div class="GamePanel">
+  <div v-if="Hide === false" class="GamePanel">
     <img :src="img" :alt="gameID" />
     <h1>{{ title }}</h1>
   </div>
@@ -10,19 +10,19 @@ defineProps({
   title: String,
   img: String,
   gameID: String,
+  Hide: Boolean,
 })
 </script>
 
 <style>
-@font-face {
-  font-family: 'HyliaSerifBeta';
-  src: url('font/HyliaSerifBeta-Regular.otf') format('opentype');
-}
-
 .GamePanel {
   padding: 15px;
+  margin-bottom: 50px;
   width: 400px;
   height: 400px;
+  flex: 1 0 20%;
+  max-width: 20%;
+  box-sizing: border-box;
   display: flex;
   flex-direction: column;
 }
@@ -35,7 +35,7 @@ defineProps({
   justify-content: center;
 }
 
-img {
+.GamePanel img {
   max-width: 100%;
   max-height: 100%;
   border-radius: 20px;
