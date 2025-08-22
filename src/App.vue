@@ -62,4 +62,9 @@ ul {
 ul li {
   width: 90vw;
 }
+
+.admin {
+  position: relative;
+  left: 650px;
+}
 </style>

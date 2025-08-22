@@ -11,18 +11,22 @@
       "Discord": "https://discord.gg/C7MW64Dkd8",
       "Bingo": "https://ootbingo.github.io/bingo/bingo.html?version=10.5.1&seed=127716&mode=normal",
       "Practice ROM": "https://practicerom.com/",
+      "Faster Quest": "https://practicerom.com/BetterOOT",
       "StratDB": "https://www.stratdb.app/home",
       "Splits": "https://pastebin.com/vRkhnvMr",
       "Project64 1.7": "https://www.mediafire.com/file/lnhe85e6vs7pv25/Project64+1.7.0.50.Ver.23.zip",
       "Dolphin": "https://www.mediafire.com/file/lnhe85e6vs7pv25/Project64+1.7.0.50.Ver.23.zip",
-      "Route Doc": "https://pastebin.com/eVDpJi6Z"
+      "Route Doc": "https://pastebin.com/eVDpJi6Z",
+      "Split icon": "https://www.deviantart.com/klydestorm/art/Ocarina-of-Time-Icon-Pack-180384354",
+      "Ess Adapter": "https://electromodder.co.uk/wii_vc_adapter",
+      "OOT map": "https://ootmap.com/#11/-0.2300/0.4000"
     }
   },
   "WWHD": {
     "title": "The Legend Of Zelda : Wind Waker HD",
     "img": "GameImage/WWHDImg.png",
     "ID": "WWHD",
-    "Hide": false,
+    "Hide": true,
     "link": {
       "Main leaderboard": "https://www.speedrun.com/twwhd",
       "Catégorie extension leaderboard": "https://www.speedrun.com/twwhdext",
